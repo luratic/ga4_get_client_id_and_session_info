@@ -15,6 +15,8 @@ With this variable, you can:
 
 ---
 ## How to use it
+<img width="920" height="698" alt="image" src="https://github.com/user-attachments/assets/48c73f89-776d-4602-8fd5-67823fe806b5" />
+
 1. **Import** the `.tpl` file into your GTM container.
 2. **Select** the value you want to return:
    - `Client ID`
