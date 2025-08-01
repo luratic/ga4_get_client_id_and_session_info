@@ -1,0 +1,6 @@
+homepage: "https://www.luratic.com"
+documentation: "https://github.com/luratic/ga4_get_client_id_and_session_info"
+versions:
+  # Latest version
+  - sha: 1bcaaf78fc0d26a98fbc55346105fdf9c1c416e4
+    changeNotes: Initial Release
